@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # RAGbotBenchmark_Gcolab: Digging into Open-Source RAG Bots on Colab GPUs! 🤖
 
