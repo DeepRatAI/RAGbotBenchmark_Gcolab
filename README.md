@@ -7,7 +7,7 @@
 
 # **RAGbotBenchmark\_Gcolab: Digging into Open-Source RAG Bots on Colab GPUs!** 🤖
 
-Hey everyone! HermesIA (Gonzalo Romero) here — a.k.a. Deeprat, benchmark gremlin and GPU squatter. I got curious about how some of these popular open-source LLMs actually behave in a real-world Retrieval-Augmented Generation (RAG) setup. You know RAG: you grab some relevant text based on a query, shove it next to the query in the LLM’s context, and hope it answers something coherent. Easy in theory, but what happens when we bring it into the chaotic, snack-fueled world of **Colab GPUs**?
+Hey everyone! Gonzalo Romero here — a.k.a. Deeprat, benchmark gremlin and GPU squatter. I got curious about how some of these popular open-source LLMs actually behave in a real-world Retrieval-Augmented Generation (RAG) setup. You know RAG: you grab some relevant text based on a query, shove it next to the query in the LLM’s context, and hope it answers something coherent. Easy in theory, but what happens when we bring it into the chaotic, snack-fueled world of **Colab GPUs**?
 
 Do quantized models really hold up on a dusty T4? Can Phi-2 go paw-to-paw with a heavyweight like LLaMA-2? Is the A100 worth selling your kidneys for? I didn’t want Reddit lore — I wanted **empirical data**. Real runs. Real prompts. Real lag. Let’s dig in.
 
